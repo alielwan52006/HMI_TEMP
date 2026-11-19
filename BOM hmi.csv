@@ -1,0 +1,13 @@
+,,,,
+BOM,,,,
+component,unit,unit price,Column1,totalprice
+arduino uno ,1,380,,380
+breadboard,1,30,,30
+pushbuttons,2,5,,10
+jumpers,30,0.7,,21
+LM35,1,70,,70
+buzzer,1,6.5,,6.5
+lcd 16x2,1,60,,60
+resistor 220ohms,2,0.25,,0.5
+usb cable,1,15,,15
+,,TOTAL=,,593
