@@ -54,7 +54,7 @@ Prices and supplier details should reflect the parts and quotations actually use
 
 The following video demonstrates the operation of the Temperature Monitoring HMI project.
 
-[Watch Project Demonstration](IMG_3096_compressed.mp4)
+[Watch Project Demonstration](video.mp4)
 
 ## 6. Detailed Design
 
